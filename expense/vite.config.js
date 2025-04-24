@@ -2,13 +2,12 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
-// https://vite.dev/config/
 export default defineConfig({
-  plugins: [react() , tailwindcss()],
+  base: './', // 👈 THIS LINE FIXES ASSET 404s IN PRODUCTION
+  plugins: [react(), tailwindcss()],
   server: {
     proxy: {
-      '/api': 'http://localhost:8000', // change to your backend port
+      '/api': 'http://localhost:8000',
     },
-  }
+  },
 })
-
