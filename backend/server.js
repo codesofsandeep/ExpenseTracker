@@ -78,7 +78,7 @@ app.post('/api/v1/ocr/scan-receipt', upload.single('receipt'), async (req, res) 
 
 
 const _dirname = path.dirname("")
-const buildpath = path.join(_dirname, "../expense-tracker/dist")
+const buildpath = path.join(_dirname, "../expense/dist")
 app.use(express.static(buildpath));
 
 app.get("/", (req, res) => {
