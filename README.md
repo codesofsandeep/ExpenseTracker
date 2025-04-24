@@ -47,7 +47,8 @@ A modern full-stack Expense Tracker application built using the MERN stack (Mong
 ## 📸 Screenshots
 
 ### Login Page
-![Login](./screenshot/login.png)
+![Login](https://github.com/codeofsandeep/ExpenseTracker/edit/main/screenshots/login.png)
+
 
 ### Sign Up Page
 ![SignUp](./screenshot/signup.png)
