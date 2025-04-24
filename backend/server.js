@@ -83,8 +83,8 @@ app.use(express.static(buildpath));
 
 app.get("/", (req, res) => {
     res.send("Server is live 🚀");
-  });
-  
+});
+
 
 
 // Start the server
