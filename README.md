@@ -47,32 +47,32 @@ A modern full-stack Expense Tracker application built using the MERN stack (Mong
 ## 📸 Screenshots
 
 ### Login Page
-![Login](https://github.com/codeofsandeep/ExpenseTracker/edit/main/screenshots/login.png?raw=true)
+![Login](./images/login.png)
 
 
 ### Sign Up Page
 ![SignUp](./images/signup.png)
 
 ### Home Page
-![Home](./screenshot/Home.png)
+![Home](./images/Home.png)
 
 ### Awesome Features
-![Features](./screenshot/Features.png)
+![Features](./images/Features.png)
 
 ### Financial SnapShots
-![Snapshot](./screenshot/snapshot.png)
+![Snapshot](./images/snapshot.png)
 
 ### Dashboard
-![Dashboard](./screenshot/userDashboard.png)
+![Dashboard](./images/userDashboard.png)
 
 ### Income
-![Dashboard](./screenshot/income.png)
+![Dashboard](./images/income.png)
 
 ### Expense
-![Dashboard](./screenshot/expense.png)
+![Dashboard](./images/expense.png)
 
 ### OCR Receipt Upload
-![OCR Upload](./screenshot/ocr.png)
+![OCR Upload](./images/ocr.png)
 
 ---
 
