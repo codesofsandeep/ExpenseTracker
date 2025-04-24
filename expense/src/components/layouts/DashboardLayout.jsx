@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import { UserContext } from '../../context/UserContext';
 import Navbar from '../layouts/Navbar';
 import SideMenu from '../layouts/SideMenu';
-import FloatingChatBot from '../../components/chatBot/FloatingChatBot';
+import FloatingChatBot from '../../components/chatBot/FloatingChatBot.jsx';
 
 function DashboardLayout({ children, activeMenu }) {
     const { user } = useContext(UserContext);
