@@ -51,7 +51,7 @@ A modern full-stack Expense Tracker application built using the MERN stack (Mong
 
 
 ### Sign Up Page
-![SignUp](./screenshot/signup.png)
+![SignUp](./images/signup.png)
 
 ### Home Page
 ![Home](./screenshot/Home.png)
